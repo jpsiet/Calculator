@@ -1,14 +1,7 @@
 # Pazien Frontend Project
 
 ## About
-Welcome to the Pazien frontend project. The purpose of this project is to gauge your ability to work with React.  
-
-Upon completion, please either:
-- Clone this repo to a **private** repo and invite [Alexandr Grinevich](https://github.com/grinyahoo) as a collaborator.
-- Zip your solution and email it to [Alexandr Grinevich](mailto:alexandr.grinevich@pazien.com)
-
-> Hey this is important! We hope you can spend from two to five hours on this project. If you can finish faster - great! If not, limit yourself and don't spend much longer than five hours MAX.
-
+Basic working calcuator 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Setup
