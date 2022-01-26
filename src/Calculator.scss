@@ -1,0 +1,38 @@
+.calculater-cont {
+  font-size: 20px;
+  &-output {
+    color: white;
+    padding: 5px;
+    text-align: center;
+  }
+
+  &-input {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    padding: 10px;
+    justify-content: center;
+    input {
+      padding: 5px;
+    }
+  }
+  &-operation {
+    display: flex;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    button {
+      padding: 5px 10px;
+      cursor: pointer;
+      font-weight: bold;
+      :hover {
+        background-color: #9999ff;
+      }
+    }
+
+    button:hover {
+      color: blue;
+    }
+  }
+}

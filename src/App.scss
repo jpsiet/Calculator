@@ -1,0 +1,41 @@
+.app {
+  background-color: #282c34;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  &-logo {
+    height: 50px;
+  }
+
+  &-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  &-edit-note {
+    font-size: calc(10px + 1vmin);
+  }
+
+  &-solution {
+    color: #09d3ac;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 2;
+  }
+
+  button{
+    padding: 3px 10px;
+    border: 1px solid gray;
+    /* color: darkgray; */
+    background-color: white;
+  }
+}
